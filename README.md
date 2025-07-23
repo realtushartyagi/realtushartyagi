@@ -3,16 +3,15 @@
 
 <img align="center" alt="coding" width="300" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wwc3I3aGExcXpwdWI2NHBvcmtzZnpmemV3aXd5bnE4eGVuNDVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
 
-
- <h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3> <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/Handshake.gif?raw=true" height="60px" style="max-width:100%;">
 <p align="left">
 <a href="https://twitter.com/realtushartyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realtushartyagi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/realtushartyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realtushartyagi" height="30" width="40" /></a>
 <a href="https://instagram.com/realtushartyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realtushartyagi" height="30" width="40" /></a>
 </p>
 
-
-# 💻 Tech Stack:  
+___
+# 💻 Tech Stack:    <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/typing.gif?raw=true" height="40px" style="max-width:100%;">
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,javascript,typescript,nodejs,react,redux,nextjs,express,flask,postgres,mysql,mongodb,firebase,docker,figma,threejs,socketio,python,postman,ux)](https://skillicons.dev)
 
 ### 📊 **GitHub Stats:**
