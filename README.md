@@ -12,7 +12,7 @@
 
 ___
 # 💻 Tech Stack:    <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/typing.gif?raw=true" height="40px" style="max-width:100%;">
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,javascript,typescript,nodejs,react,redux,nextjs,express,flask,postgres,mysql,mongodb,firebase,docker,figma,threejs,python,postman,ux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,java,javascript,typescript,nodejs,react,redux,nextjs,express,flask,postgres,mysql,mongodb,firebase,docker,figma,threejs,python,postman,ux)](https://skillicons.dev)
 
 ### 📊 **GitHub Stats:**
 
