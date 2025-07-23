@@ -1,14 +1,6 @@
 <h1 align="center">Hi There :) Welcm Here, I'm Tushar</h1>
 <h3 align="center">A passionate MERN stack web developer</h3>
-
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wwc3I3aGExcXpwdWI2NHBvcmtzZnpmemV3aXd5bnE4eGVuNDVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realtushartyagi&label=Profile%20views&color=0e75b6&style=plastic" alt="realtushartyagi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realtushartyagi" alt="realtushartyagi" /></a> </p>
-
-- 📫 How to reach me **tushartyagi7575@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/realtushartyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realtushartyagi" height="30" width="40" /></a>
@@ -23,4 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realtushartyagi&show_icons=true&locale=en" alt="realtushartyagi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realtushartyagi&" alt="realtushartyagi" /></p>
+
+
