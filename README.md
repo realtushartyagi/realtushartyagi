@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/realtushartyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realtushartyagi" height="30" width="40" /></a>
 <a href="https://instagram.com/realtushartyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realtushartyagi" height="30" width="40" /></a>
 <a href="mailto:tushartyagi7575@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/48/D14836/gmail.png" title="Gmail" alt="Gmail"/>
+    <img align="center" src="https://img.icons8.com/ios-glyphs/48/D14836/gmail.png" title="Gmail" alt="Gmail"/>
   </a>
 </p>
 
