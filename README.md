@@ -32,6 +32,8 @@ ___
 ## 🟩 Contribution Activity
 
 
+  ![Snake animation](https://github.com/realtushartyagi/realtushartyagi/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
