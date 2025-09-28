@@ -34,9 +34,8 @@ ___
 
 # 🐍 My GitHub Contribution Snake
 
-<img
-  alt="github contribution grid snake animation"
-  src="https://raw.githubusercontent.com/realtushartyagi/realtushartyagi/output/github-contribution-grid-snake.svg" />
+<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/<username>/<repo>/<branch>/output/github-contribution-grid-snake.svg" style="max-width:100%"/>
+
 
 
 
