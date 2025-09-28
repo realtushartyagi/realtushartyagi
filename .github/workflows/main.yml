@@ -1,4 +1,3 @@
-
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
