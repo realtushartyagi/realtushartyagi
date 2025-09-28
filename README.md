@@ -35,7 +35,7 @@ ___
 # 🐍 My GitHub Contribution Snake
 
 
-![Snake animation](https://github.com/realtushartyagi/realtushartyagi/raw/main/output/github-contribution-grid-snake.svg)
+
 
 
 
