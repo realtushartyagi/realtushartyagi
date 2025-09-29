@@ -35,9 +35,7 @@ ___
 
 ## 🟩 Contribution Activity
 
-# 🐍 My GitHub Contribution Snake
 
-![snake gif](https://github.com/realtushartyagi/realtushartyagi/blob/output/github-snake-dark.svg)
 
 
 
