@@ -1,5 +1,5 @@
-<h1 align="center">Hi There :) Welcome Here, I'm Tushar</h1>
- <h3 align="center">A passionate MERN Stack Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Tushar+Tyagi;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀;Let's+Build+Something+Amazing+✨)](https://git.io/typing-svg)
+
 
 <img align="center" alt="coding" width="300" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wwc3I3aGExcXpwdWI2NHBvcmtzZnpmemV3aXd5bnE4eGVuNDVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
 
@@ -34,13 +34,6 @@ ___
        alt="GitHub streak"
        src="https://streak-stats.demolab.com?user=realtushartyagi&background=00000000&hide_border=true&mode=weekly&fire=ffd500&ring=ff960d&stroke=F6C819&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
 </div>
-
-
-
-
- 
-
-
 
 ## 🟩 Contribution Activity
 
