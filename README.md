@@ -26,13 +26,18 @@ ___
 
 
 <div align="center">
-  
-  <img width="400"
-       alt="GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=realtushartyagi&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-       <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=realtushartyagi&theme=dark&hide_border=true&background=00000000&fire=ffd500&ring=ff960d&stroke=F6C819&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" />
+
+ 
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=realtushartyagi&show_icons=true&theme=transparent&hide_border=true&count_private=true" 
+       alt="GitHub Stats" 
+       width="400" />  <img 
+       src="https://streak-stats.demolab.com?user=realtushartyagi&theme=dark&hide_border=true&background=00000000&fire=ffd500&ring=ff960d&stroke=F6C819&currStreakNum=ff7a0d&sideNums=ff7a0d&currStreakLabel=F6C819&sideLabels=F6C819&dates=F6C819" 
+       alt="GitHub Streak" 
+       width="400" />
 
 </div>
+
 
 ## 🟩 Contribution Activity
 
