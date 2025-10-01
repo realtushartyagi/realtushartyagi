@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&colorFF4D00=&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Tushar+Tyagi;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀;Let's+Build+Something+Amazing+✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Tushar+Tyagi;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀;Let's+Build+Something+Amazing+✨)](https://git.io/typing-svg)
+
 
 
 <img align="center" alt="coding" width="300" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wwc3I3aGExcXpwdWI2NHBvcmtzZnpmemV3aXd5bnE4eGVuNDVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
