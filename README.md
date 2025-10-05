@@ -21,8 +21,13 @@ ___
 ### 📊 **GitHub Stats:**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtushartyagi&layout=compact&theme=radical&hide_border=true" alt="Tushar's Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtushartyagi&layout=compact&theme=radical&title_color=ff7a0d&text_color=f6f6f6&bg_color=0d1117&hide_border=true" 
+    alt="Tushar's Top Languages" 
+    width="420" />
 </div>
+
+
 
 <div align="center">
   <img src="./assets/readme/github-stats.svg" alt="GitHub Stats" width="420" />
