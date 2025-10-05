@@ -24,6 +24,10 @@ ___
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtushartyagi&layout=compact&theme=radical&hide_border=true" alt="Tushar's Top Languages" />
 </div>
 
+<div align="center">
+  <img src="./assets/readme/github-stats.svg" alt="GitHub Stats" width="420" />
+  <img src="./assets/readme/streak-stats.svg" alt="GitHub Streak" width="420" />
+</div>
 
 
 
