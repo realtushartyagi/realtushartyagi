@@ -30,7 +30,7 @@ ___
 
 
 <div align="center">
-  <img src="./assets/readme/github-stats.svg" alt="GitHub Stats" width="420" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=realtushartyagi&custom_title=stats&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=808080&text_color=aaaaaa&icon_color=555555&cache_seconds=1800" />
   <img src="./assets/readme/streak-stats.svg" alt="GitHub Streak" width="420" />
 </div>
 
