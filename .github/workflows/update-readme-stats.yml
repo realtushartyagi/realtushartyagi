@@ -1,0 +1,34 @@
+name: Update README stats
+on:
+  schedule:
+    - cron: '0 */6 * * *' # every 6 hours (adjust if you want)
+  workflow_dispatch:     # allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ensure folder exists
+        run: mkdir -p assets/readme
+
+      - name: Download GitHub stats SVG
+        run: |
+          curl -fSL "https://github-readme-stats.vercel.app/api?username=realtushartyagi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" -o assets/readme/github-stats.svg
+
+      - name: Download streak stats SVG
+        run: |
+          curl -fSL "https://streak-stats.demolab.com?user=realtushartyagi&theme=dark&hide_border=true" -o assets/readme/streak-stats.svg
+
+      - name: Commit & push (if changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/readme/github-stats.svg assets/readme/streak-stats.svg
+          git commit -m "chore(readme): update stats images" || echo "No changes to commit"
+          git push
