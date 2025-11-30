@@ -20,18 +20,15 @@ ___
 
 ### 📊 **GitHub Stats:**
 
-<div align="center">
+
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtushartyagi&layout=compact&theme=radical&title_color=ff7a0d&text_color=f6f6f6&bg_color=0d1117&hide_border=true" 
-    alt="Tushar's Top Languages" 
-    width="420" />
-</div>
-
-
-
-
-
-
+    src="https://github-readme-streak-stats.herokuapp.com/?user=realtushartyagi&theme=transparent&hide_border=true&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&background=00000000&stroke=444444"
+    alt="GitHub Streak"
+    height="180"
+  />
+</p>
 
 
 
