@@ -22,13 +22,8 @@ ___
 
 
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=realtushartyagi&theme=transparent&hide_border=true&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&background=00000000&stroke=444444"
-    alt="GitHub Streak"
-    height="180"
-  />
-</p>
+
+
 
 
 
