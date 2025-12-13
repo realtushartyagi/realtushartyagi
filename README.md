@@ -21,6 +21,20 @@ ___
 ### 📊 **GitHub Stats:**
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realtushartyagi&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=realtushartyagi&theme=tokyonight&background=0d1117&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtushartyagi&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
+</p>
+
+
+
 
 
 
