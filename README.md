@@ -20,22 +20,35 @@ ___
 ### 📊 **GitHub Stats:**
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realtushartyagi&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=realtushartyagi&theme=tokyonight&background=0d1117&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realtushartyagi&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
-</p>
 
 
 
 
+# 🌱 What I'm Learning:
+<div align="center">
+  <p style="font-size: 20px; font-weight: 600; color: #28a745; transition: transform 0.3s ease; line-height: 1.5; animation: slideIn 1s ease-in-out;">
+    Currently exploring the intersection of Blockchain, Rust, and Generative AI, building real-world solutions across next-generation digital products.
+  </p>
+</div>
 
+# 💼 Open to:
+<div align="center">
+  <ul style="list-style-type: none; padding: 0; font-size: 20px; font-weight: bold; display: flex; flex-direction: column; align-items: center;">
+    <li style="padding: 12px; background: linear-gradient(45deg, #1e3c72, #2a5298); color: white; border-radius: 10px; width: 320px; text-align: center; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin-bottom: 15px; font-size: 18px; cursor: pointer; transition: all 0.3s ease-in-out;">
+      <span>Collaborations on exciting open-source projects that make a difference.</span>
+    </li>
+    <li style="padding: 12px; background: linear-gradient(45deg, #f85032, #e73827); color: white; border-radius: 10px; width: 320px; text-align: center; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); margin-bottom: 15px; font-size: 18px; cursor: pointer; transition: all 0.3s ease-in-out;">
+      <span>Opportunities to contribute to impactful software solutions that solve real-world problems.</span>
+    </li>
+  </ul>
+</div>
+
+---
 
 
 
