@@ -1,7 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+👋+I'm+Tushar+Tyagi;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀;Let's+Build+Something+Amazing+✨)](https://git.io/typing-svg)
 
 
-<img align="center" alt="coding" width="300" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wwc3I3aGExcXpwdWI2NHBvcmtzZnpmemV3aXd5bnE4eGVuNDVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
+
+<img align="right" src="https://github.com/realtushartyagi/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
+
+
+
 
  <h3 align="left">Connect with me:</h3> <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/Handshake.gif?raw=true" height="60px" style="max-width:100%;">
 <p align="left">
@@ -16,6 +26,8 @@
 ___
 # 💻 Tech Stack:    <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/typing.gif?raw=true" height="40px" style="max-width:100%;">
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,bootstrap,java,javascript,typescript,nodejs,react,redux,nextjs,express,flask,postgres,mysql,mongodb,firebase,aws,materialui,nginx,vercel,netlify,docker,materialui,figma,threejs,python,postman,ux)](https://skillicons.dev)
+
+<a href="https://github.com/realtushartyagi/GIFs-For-Readme"><img align="center" src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a> 
 
 ### 📊 **GitHub Stats:**
 
