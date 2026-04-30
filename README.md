@@ -45,7 +45,7 @@ ___
 # 🌱 What I'm Learning:
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; color: #28a745; transition: transform 0.3s ease; line-height: 1.5; animation: slideIn 1s ease-in-out;">
-    Currently exploring the intersection of Blockchain, Rust, and Generative AI, building real-world solutions across next-generation digital products.
+    Currently exploring the intersection of DevOps, Cloud Computing, and Generative AI, building real-world solutions across next-generation digital products.
   </p>
 </div>
 
