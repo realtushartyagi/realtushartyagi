@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+👋+I'm+Tushar+Tyagi;Full+Stack+Developer+💻;Always+Learning+New+Things+🚀;Let's+Build+Something+Amazing+✨)](https://git.io/typing-svg)
 
 
-<img align="right"  width="490" height="500" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<img align="centre"  width="490" height="500" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 
-<img align="center" alt="coding" width="350" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wwc3I3aGExcXpwdWI2NHBvcmtzZnpmemV3aXd5bnE4eGVuNDVzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif">
+
 
 <p align="center">
    <img  src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200">
