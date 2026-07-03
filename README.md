@@ -6,6 +6,29 @@
 
 # TUSHAR TYAGI
 
+<div align="center">
+
+Transform your GitHub contribution graph into a Pac-Man maze animation. 👾
+
+<br>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Open+Source+Contributor;Building+Real-World+Web+Applications" alt="Typing SVG" />
 
 <br/>
