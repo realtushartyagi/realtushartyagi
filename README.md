@@ -4,42 +4,8 @@
 
 <div align="center">
 
-# TUSHAR TYAGI
 
-<div align="center">
-
-Transform your GitHub contribution graph into a Pac-Man maze animation. 👾
-
-<br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/realtushartyagi/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/realtushartyagi/github-pacman/raw/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pacman contribution graph"
-    src="https://github.com/realtushartyagi/github-pacman/raw/output/pacman-contribution-graph.svg"
-  />
-
-<!--
-## How to make this show YOUR contributions
-1. **Fork** the [github-pacman](https://github.com/jkdevcode/github-pacman) repository into your own GitHub account.
-2. In the fork, go to **Settings → Actions** and enable GitHub Actions.
-3. Ensure an `output` branch exists (the workflow will create it on first run).
-4. The workflow (`.github/workflows/pacman.yml`) will automatically generate the SVGs based on YOUR contribution graph and push them to the `output` branch.
-5. Update the image URLs in this README (as shown above) to point to **your fork** (`https://github.com/<your‑username>/github-pacman/...`).
-6. Commit and push; the animation will update every 12 hours.
--->
-</picture>
-
-</div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Open+Source+Contributor;Building+Real-World+Web+Applications" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%21+there%2C+I%27m+Tushar+Tyagi;A+Software+Developer;Open+Source+Contributor;Building+Real-World+Web+Applications)
 
 <br/>
 
@@ -159,3 +125,34 @@ Transform your GitHub contribution graph into a Pac-Man maze animation. 👾
 
 <br/>
 
+
+<div align="center">
+
+
+<br>
+
+## 🟩 Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/realtushartyagi/realtushartyagi/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/realtushartyagi/realtushartyagi/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/realtushartyagi/realtushartyagi/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+
+<p align="center">
+  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=realtushartyagi&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+# 💥 Built to build better.
