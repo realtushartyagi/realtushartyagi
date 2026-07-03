@@ -65,7 +65,7 @@
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,postgresql,supabase,sqlite,prisma&perline=10" />
+<img src="https://skillicons.dev/icons?i=mongodb,redis,postgresql,supabase,sqlite,prisma&perline=10" />
 
 ### ☁️ DevOps & Infrastructure
 
