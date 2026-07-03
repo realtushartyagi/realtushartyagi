@@ -15,16 +15,26 @@ Transform your GitHub contribution graph into a Pac-Man maze animation. 👾
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+    srcset="https://github.com/realtushartyagi/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+    srcset="https://github.com/realtushartyagi/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
   <img
     alt="Pacman contribution graph"
-    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+    src="https://github.com/realtushartyagi/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
+
+<!--
+## How to make this show YOUR contributions
+1. **Fork** the [github-pacman](https://github.com/jkdevcode/github-pacman) repository into your own GitHub account.
+2. In the fork, go to **Settings → Actions** and enable GitHub Actions.
+3. Ensure an `output` branch exists (the workflow will create it on first run).
+4. The workflow (`.github/workflows/pacman.yml`) will automatically generate the SVGs based on YOUR contribution graph and push them to the `output` branch.
+5. Update the image URLs in this README (as shown above) to point to **your fork** (`https://github.com/<your‑username>/github-pacman/...`).
+6. Commit and push; the animation will update every 12 hours.
+-->
 </picture>
 
 </div>
