@@ -50,33 +50,12 @@
 <br/>
 
 ## 🛠️ Tech Stack & Tools
-
-### 💬 Languages
-
 <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,mysql,java&perline=10" />
-
-### 🎨 Frontend
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass,vite,redux,threejs&perline=10" />
-
-### ⚙️ Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,nginx&perline=10" />
-
-### 🗄️ Databases
-
 <img src="https://skillicons.dev/icons?i=mongodb,redis,postgresql,supabase,sqlite,prisma&perline=10" />
-
-### ☁️ DevOps & Infrastructure
-
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,cloudflare,vercel,githubactions,aws&perline=10" />
-
-### 🎨 UI/UX & Design
-
 <img src="https://skillicons.dev/icons?i=figma,tailwind,styledcomponents&perline=10" />
-
-### 🔧 Dev Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jest&perline=10" />
 
 <br/>
