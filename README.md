@@ -9,46 +9,6 @@
 
 <br/>
 
-## 🤝 Let's Connect
-
-<a href="mailto:tushartyagi7575@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="42" />
-</a>
-
-<a href="https://www.linkedin.com/in/realtushartyagi/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
-</a>
-
-<a href="https://discord.com/users/realtushartyagi">
-  <img src="https://skillicons.dev/icons?i=discord" width="42" />
-</a>
-
-<a href="https://x.com/realtushartyagi">
-  <img src="https://skillicons.dev/icons?i=twitter" width="42" />
-</a>
-
-
-<a href="https://wa.me/8868929654">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-    width="42"
-  />
-</a>
-
-<a href="https://www.instagram.com/realtushartyagi/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="42" />
-</a>
-
-<a href="https://www.youtube.com/@realtushartyagi">
-  <img
-    src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
-    width="42"
-    alt="YouTube"
-  />
-</a>
-
-<br/>
-
 ## 🛠️ Tech Stack & Tools
 <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,mysql,java&perline=10" />
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass,vite,redux,threejs&perline=10" />
